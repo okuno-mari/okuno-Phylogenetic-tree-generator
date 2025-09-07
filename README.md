@@ -10,8 +10,8 @@
 ### 使用方法
 こちらのコードはGoogle Colab上で動作させることを想定しております。ete3ではなくMatplotlibを使っているので、Colab上であっても生成した系統樹を問題なく出力できます。
 
-###デモ
+### DEMO
 [phylum_data.xlsx](https://github.com/user-attachments/files/22192608/phylum_data.xlsx)
-上記のファイルを使用した場合の出力結果は以下のようになります。
+←こちらのファイルを使用した場合の出力結果は以下のようになります。
 <img width="14625" height="23682" alt="67e0971e-6a3f-4dd1-ab56-40af820b7335" src="https://github.com/user-attachments/assets/4383195b-e50a-4411-ab7a-86335afe8bca" />
 
